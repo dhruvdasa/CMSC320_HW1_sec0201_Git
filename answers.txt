@@ -4,7 +4,3 @@ Answer: Git is good for collaboration, as the pushing and pulling allows for tea
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to sports. If we look at a drafting process, scouts can analyze data about their prospects to figure out which players they should draft.
-
-Q3: What is the difference between Merging and Rebasing?
-
-Answer: When merging, the history of both branches is preserved exactly as it happened, whereas for rebasing, it rewrites the commit history to make it look like the changes were made sequentially.
